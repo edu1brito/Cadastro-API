@@ -1,0 +1,14 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif
+                                                
+}
+
+body{
+ min-height: 100vh;
+ width: 100vw;
+ background: linear-gradient(180deg, rgb(147, 108, 167) 0%, rgb(33, 2, 33) 100%); 
+}
+
